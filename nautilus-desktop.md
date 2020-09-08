@@ -18,12 +18,14 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Nautilus Desktop
-  background_image: ''
+  headline: "<strong>Nautilus Desktop</strong>"
+  background_image: "/uploads/2020/09/08/version-artwork-2x.png"
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: Placeholder Text Placeholder TextPlaceholder TextPlaceholder TextPlaceholder
+    TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder
+    Text
   cta:
     enabled: false
     url: ''
