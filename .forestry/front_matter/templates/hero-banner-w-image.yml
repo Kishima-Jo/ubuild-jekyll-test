@@ -10,7 +10,7 @@ fields:
 - type: file
   name: background_image
   label: Background Image
-  default: "/uploads/2020/09/08/version-artwork-2x.png"
+  default: ''
 - type: field_group
   name: image
   label: Image
