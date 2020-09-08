@@ -27,9 +27,9 @@ page_sections:
     TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder
     Text
   cta:
-    enabled: false
+    enabled: true
     url: ''
-    button_text: ''
+    button_text: blabla
 menu:
   main:
     identifier: home
