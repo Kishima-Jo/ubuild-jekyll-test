@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Nautilus Desktop
-date: 2020-09-14 16:00:00 +0000
+date: 2020-09-14T16:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -30,5 +30,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
