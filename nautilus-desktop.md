@@ -15,7 +15,7 @@ page_sections:
     link_text: Installation
   cta:
     url: ''
-    button_text: test
+    button_text: Doenload
 - template: hero-banner-w-image
   block: hero-2
   headline: Nautilus Desktop
