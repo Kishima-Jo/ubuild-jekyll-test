@@ -8,18 +8,14 @@ page_sections:
   logo: "/uploads/2020/09/08/appstore-512pt-2x.png"
   navigation:
   - link: ''
-    link_text: ''
+    link_text: Home
   - link: ''
-    link_text: ''
+    link_text: About
   - link: ''
-    link_text: ''
+    link_text: Installation
   cta:
     url: ''
     button_text: ''
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: Nautilus Desktop
