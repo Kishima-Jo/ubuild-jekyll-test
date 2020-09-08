@@ -16,6 +16,10 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: Nautilus Desktop
