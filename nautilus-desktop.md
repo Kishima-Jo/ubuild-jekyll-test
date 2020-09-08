@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Nautilus Desktop</strong>"
-  background_image: "/uploads/2020/09/08/version-artwork-2x.png"
+  background_image: "/uploads/2020/09/08/banner-1x.png"
   image:
     image: ''
     alt_text: ''
